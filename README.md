@@ -4,8 +4,8 @@ This repo contains files for a tweet sentiment analysis. I performed preliminary
 
 Trained a Logistic Regression classifier with various embeddings for words.
 
-Bag of Words Accuracy ~ 74%
-Tfidf Accuracy ~ 75%
+Bag of Words Accuracy ~ 74% . 
+Tfidf Accuracy ~ 75% . 
 Doc2Vec Accuracy ~ TBD
 
 I hope to expand this mini-project to use the Twitter API to scrape tweets to use as a demo in the classifier!
